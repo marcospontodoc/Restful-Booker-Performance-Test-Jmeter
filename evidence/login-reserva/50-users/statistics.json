@@ -1,0 +1,50 @@
+{
+  "POST - BOOKING" : {
+    "transaction" : "POST - BOOKING",
+    "sampleCount" : 55430,
+    "errorCount" : 5,
+    "errorPct" : 0.009020386,
+    "meanResTime" : 124.69494858379946,
+    "medianResTime" : 118.0,
+    "minResTime" : 114.0,
+    "maxResTime" : 12120.0,
+    "pct1ResTime" : 123.0,
+    "pct2ResTime" : 129.0,
+    "pct3ResTime" : 164.0,
+    "throughput" : 185.13446714138757,
+    "receivedKBytesPerSec" : 171.00757358786123,
+    "sentKBytesPerSec" : 79.18837559367944
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 110891,
+    "errorCount" : 21,
+    "errorPct" : 0.018937515,
+    "meanResTime" : 124.10967526670308,
+    "medianResTime" : 118.0,
+    "minResTime" : 114.0,
+    "maxResTime" : 12120.0,
+    "pct1ResTime" : 121.0,
+    "pct2ResTime" : 122.0,
+    "pct3ResTime" : 130.9900000000016,
+    "throughput" : 369.47902228382554,
+    "receivedKBytesPerSec" : 309.80360488899737,
+    "sentKBytesPerSec" : 128.62388024338782
+  },
+  "POST - AUTH" : {
+    "transaction" : "POST - AUTH",
+    "sampleCount" : 55461,
+    "errorCount" : 16,
+    "errorPct" : 0.0288491,
+    "meanResTime" : 123.5247290889091,
+    "medianResTime" : 118.0,
+    "minResTime" : 115.0,
+    "maxResTime" : 6359.0,
+    "pct1ResTime" : 122.0,
+    "pct2ResTime" : 128.0,
+    "pct3ResTime" : 167.0,
+    "throughput" : 184.79792880776498,
+    "receivedKBytesPerSec" : 139.21365589295175,
+    "sentKBytesPerSec" : 49.62835002161657
+  }
+}
